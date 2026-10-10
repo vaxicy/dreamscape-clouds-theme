@@ -1,17 +1,1 @@
-NAME
-Dreamscape Clouds Theme
-
-SUMMARY
-A dreamy pastel Chrome theme blending soft lilac, airy blue, and icy aqua for a calm, cloud-inspired browsing space.
-
-DESCRIPTION
-Dreamscape Clouds Theme brings a quiet sky to Chrome. A soft pastel lilac frame pairs with an icy aqua toolbar and active tab, while a pale blue new tab page keeps your browsing space light and calm. Deep blue-violet text and icons keep the interface clear and easy to read.
-
-Inspired by drifting clouds and open skies, this minimal theme uses solid colors throughout. Its flat crescent, cloud and star icon brings a small touch of dreaminess. No wallpaper, no extra scripts, and no permissions required.
-
-PROMO TAGLINE
-A quiet sky for your everyday browsing.
-
-MARQUEE COPY
-Soft lilac. Airy blue.
-A little calm above the clouds.
+Dreamscape Clouds Theme brings a quiet sky to Chrome. A soft lilac frame wraps the top of the window, the toolbar and active tab cool into icy aqua, and the new tab page opens on pale blue. Deep blue-violet text keeps tab titles, bookmarks, the address bar and toolbar icons clear, while deep lilac marks the new tab header and links. Flat solid colors throughout — no wallpaper, no textures, no gradients, no permissions.
