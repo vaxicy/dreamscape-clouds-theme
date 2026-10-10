@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Dreamscape Clouds Theme",
+  "version": "1.0.0",
+  "description": "A dreamy pastel Chrome theme blending soft lilac, airy blue, and icy aqua for a calm, cloud-inspired browsing space.",
+  "icons": {"128": "logo/logo128.png"},
+  "theme": {
+    "colors": {
+      "frame": [205, 198, 237],
+      "frame_inactive": [205, 198, 237],
+      "toolbar": [229, 243, 244],
+      "tab_text": [57, 53, 79],
+      "tab_background_text": [57, 53, 79],
+      "tab_background_text_inactive": [57, 53, 79],
+      "bookmark_text": [57, 53, 79],
+      "toolbar_text": [57, 53, 79],
+      "toolbar_button_icon": [57, 53, 79],
+      "omnibox_background": [247, 251, 252],
+      "omnibox_text": [57, 53, 79],
+      "ntp_background": [240, 245, 252],
+      "ntp_text": [57, 53, 79],
+      "ntp_link": [112, 85, 154],
+      "ntp_header": [112, 85, 154],
+      "button_background": [205, 198, 237]
+    },
+    "properties": {"ntp_logo_alternate": 1}
+  }
+}
+
